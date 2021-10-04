@@ -14,7 +14,7 @@ Drag various backgrounds and emojis on to the canvas to create artworks. Availab
 - Gestures
 - Drag&Drop
 - UndoManager
-- URLSession
+- URLSession and Combine
 - GCD
 
 ## Screenshots
